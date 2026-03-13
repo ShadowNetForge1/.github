@@ -30,12 +30,12 @@
 
 
 
-[![Ver Proyectos](https://img.shields.io/badge/Ver-Proyectos-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShadowNetForge)
+[![Ver Proyectos](https://img.shields.io/badge/Ver-Proyectos-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShadowNetForge1/.github)
 
 
 
 
-[![¡Comenzar Ya!](https://img.shields.io/badge/¡Comenzar_Ya!-purple?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/ShadowNetForge/ShadowNetForge-VPN)
+[![¡Comenzar Ya!](https://img.shields.io/badge/¡Comenzar_Ya!-purple?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/ShadowNetForge1/shadowNetForge1)
 
 
 ## Core Philosophy
