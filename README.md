@@ -25,6 +25,9 @@
 -
 
 
+[![Ver Proyectos](https://img.shields.io/badge/Ver-Proyectos-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShadowNetForge1)
+
+
 
 ## 🛡️ Sobre Nosotros
 
